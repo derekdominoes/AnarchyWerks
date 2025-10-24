@@ -1,4 +1,4 @@
-# AnarchyWerks
+# ![](anarchyIcon.png) AnarchyWerks
 
 ## Building tools to increase your profit and freedom
 
