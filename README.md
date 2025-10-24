@@ -8,5 +8,5 @@
 
 ### Check out in the Unity Asset Store our [*Crypto Game Store*](https://u3d.as/3BvW) product
 
-<br>Download the latest documentation here [Download](releases/CryptoGameStore.pdf)
+<br>Download the latest [documentation here](releases/CryptoGameStore.pdf)
 
