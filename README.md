@@ -1,5 +1,5 @@
 # AnarchyWerks
-![](anarchyIcon.png)
+![](AnarchyIcon.png)
 ## Building tools to increase your profit and freedom
 
 ### Enabling more revenue for game developers while combating the tyranny of fiat
