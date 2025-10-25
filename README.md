@@ -5,6 +5,7 @@
 <br>
 
 ----
+![](BannerSmall.png)
 
 ### Check out our prodcut [*Crypto Game Store*](https://u3d.as/3BvW) in the Unity Asset Store
 
