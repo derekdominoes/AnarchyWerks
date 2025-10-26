@@ -9,6 +9,6 @@
 
 ### Check out our prodcut [*Crypto Game Store*](https://u3d.as/3BvW) in the Unity Asset Store
 
-### Download the latest *Crypto Game Store* [documentation here](releases/CryptoGameStore.pdf)
+### Download the latest *Crypto Game Store* [documentation here](CryptoGameStore.pdf)
 
 ### Download the latest *Game Store Server* [images here](https://drive.proton.me/urls/DB6G0BVECM#eecuIVvNqJLV).
